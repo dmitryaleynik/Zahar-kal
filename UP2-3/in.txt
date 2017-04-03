@@ -1,0 +1,12 @@
+
+1 3 verov
+1 3 derov
+1 3 terov
+2 1 pemov
+2 2 qemov
+3 1 zerov
+3 4 rerov
+4 1 lerov
+4 1 nerov
+4 2 merov
+4 2 xerov
